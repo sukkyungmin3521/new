@@ -1,19 +1,23 @@
-프로젝트 이름
+# My First Project
 
-프로젝트 목적
+## 1. 프로젝트 소개
+개인 학습을 위한 Python 프로젝트입니다.
 
-주요 기능
+## 2. 주요 기능
+- 데이터 분석
+- 파일 관리
+- 결과 출력
 
-설치 방법
+## 3. 개발 환경
+- Python 3.12
+- VS Code
+- GitHub
 
-실행 방법
+## 4. 실행 방법
+python main.py
 
-사용 기술
-
-폴더 구조
-
-사용 예시
-
-기여 방법
-
-라이선스
+## 5. 프로젝트 구조
+my-first-project/
+├── README.md
+├── main.py
+└── data/
